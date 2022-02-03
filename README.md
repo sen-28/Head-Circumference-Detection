@@ -1,6 +1,6 @@
 # Fetal Head Circumference Detection
 
-This notebook contains the code for my submision for the HC-18 challenge. 
+This notebook contains the code for my submision for the [HC-18](https://hc18.grand-challenge.org/) challenge. 
 
 ## Background
 
